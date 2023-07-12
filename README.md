@@ -7,7 +7,6 @@ const Thales = {
     city: "Divinópolis",
     state: "Minas Gerais",
     country: "Brazil",
-    hobbies: ['gym']['gaming']['programming'],
     institution: "CEFET-MG",
     languages: ['Portuguese']['English'],
     programmingLanguages: ['C']['HTML']['CSS']['Javascript']['Java']
