@@ -9,7 +9,7 @@ const Thales = {
     country: "Brazil",
     institution: "CEFET-MG",
     languages: ['Portuguese']['English'],
-    capacitations: ['C']['HTML']['CSS'][NodeJS]['Javascript']['Java']
+    capacitations: ['C']['HTML']['CSS']['NodeJS']['Javascript']['Java']
 }
 
 ```
