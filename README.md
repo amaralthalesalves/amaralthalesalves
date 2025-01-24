@@ -3,13 +3,13 @@
 ```javascript
 const Thales = {
     name: "Thales Alves Amaral",
-    age: 17,
+    age: 18,
     city: "Divinópolis",
     state: "Minas Gerais",
     country: "Brazil",
     institution: "CEFET-MG",
     languages: ['Portuguese']['English'],
-    capacitations: ['C']['HTML']['CSS']['NodeJS']['Javascript']['Java']
+    knowledge: ['C']['HTML']['CSS']['NodeJS']['Javascript']['Java']
 }
 
 ```
