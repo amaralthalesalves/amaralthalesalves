@@ -1,15 +1,22 @@
-<h1 align="center">Welcome to my humble profile! 👋</h1>
+# Hi, I'm Thales 👋
 
-```javascript
-const Thales = {
-    name: "Thales Alves Amaral",
-    age: 18,
-    city: "Divinópolis",
-    state: "Minas Gerais",
-    country: "Brazil",
-    institution: "CEFET-MG",
-    languages: ['Portuguese']['English'],
-    knowledge: ['C']['HTML']['CSS']['NodeJS']['Javascript']['Java']
-}
+I'm a developer passionate about computers.
 
-```
+## About Me
+
+* Computer Science undergraduate at Universidade Federal de Minas Gerais and Informatics technician at Centro Federal de Educação Tecnológica de Minas Gerais
+* Communication, fast learning, proactive and patience are my primary skills.
+* Data Science, algorithms, dogs and videogames.
+
+## Skills
+
+* **Programming Languages:** Python, Java, C.
+* **Tools:** Git, Docker, AWS.
+
+
+## Connect
+
+* [LinkedIn](link_to_linkedin)
+* [Twitter](link_to_twitter)
+* [Portfolio](link_to_portfolio)
+* [Email](link_to_email)
