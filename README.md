@@ -12,8 +12,7 @@ I'm a developer passionate about computers.
 
 * **Programming Languages:** Python, Java, C.
 * **Tools:** Git, Docker, NodeJS.
-
-
+* **Certifications:** English C1 level, currently going through CS50.
 ## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/amaralthalesalves/)
