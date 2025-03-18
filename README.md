@@ -1,6 +1,6 @@
 # Hi, I'm Thales 👋
 
-I'm a developer passionate about computers.
+I'm a developer passionate about all things about computers.
 
 ## About Me
 
