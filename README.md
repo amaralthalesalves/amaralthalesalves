@@ -11,12 +11,10 @@ I'm a developer passionate about computers.
 ## Skills
 
 * **Programming Languages:** Python, Java, C.
-* **Tools:** Git, Docker, AWS.
+* **Tools:** Git, Docker, NodeJS.
 
 
 ## Connect
 
-* [LinkedIn](link_to_linkedin)
-* [Twitter](link_to_twitter)
-* [Portfolio](link_to_portfolio)
-* [Email](link_to_email)
+* [LinkedIn](https://www.linkedin.com/in/amaralthalesalves/)
+* [Instagram](https://www.instagram.com/amaralthalesalves/)
