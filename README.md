@@ -4,9 +4,8 @@ I'm a developer passionate about all things about computers.
 
 ## About Me
 
-* Computer Science undergraduate at Universidade Federal de Minas Gerais and Informatics technician at Centro Federal de Educação Tecnológica de Minas Gerais
-* Communication, fast learning, proactive and patience are my primary skills.
-* Data Science, algorithms, dogs and videogames.
+* Computing undergraduate at Universidade Federal de Minas Gerais and Informatics technician at Centro Federal de Educação Tecnológica de Minas Gerais
+* Communication, fast learning, proactive and patience are my primary skills
 
 ## Skills
 
