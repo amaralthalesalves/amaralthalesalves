@@ -21,10 +21,6 @@ I make game mods. Expect some of the repos here to start drifting in that direct
 
 `Python` `FastAPI` `Airflow` `PostgreSQL` `LLMs` `RAG` `MCP` `tool calling` `Docker` `Azure` `Grafana` `Prometheus` `React` `C/C++`
 
-### A note on the repos
-
-Most of what's public here is from my technician years at CEFET, so it's the place where I learned, not the best of what I do. Newer projects are on the way.
-
 ---
 
 **[amaralthalesalves.github.io](https://amaralthalesalves.github.io)** · [LinkedIn](https://www.linkedin.com/in/amaralthalesalves/) · [Instagram](https://www.instagram.com/amaralthalesalves/) · amaralthalesalves@gmail.com
