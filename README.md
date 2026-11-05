@@ -23,4 +23,4 @@ I make game mods. Expect some of the repos here to start drifting in that direct
 
 ---
 
-**[amaralthalesalves.github.io](https://amaralthalesalves.github.io)** · [LinkedIn](https://www.linkedin.com/in/amaralthalesalves/) · [Instagram](https://www.instagram.com/amaralthalesalves/) · amaralthalesalves@gmail.com
+**[thalesamaral.tech](https://thalesamaral.tech)** · [LinkedIn](https://www.linkedin.com/in/amaralthalesalves/) · [Instagram](https://www.instagram.com/amaralthalesalves/) · amaralthalesalves@gmail.com
