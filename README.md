@@ -1,3 +1,5 @@
+# Thales Amaral
+
 <p align="center">
   <img src="factorio-transparent.gif" alt="Factorio factory" />
 </p>
