@@ -4,4 +4,4 @@
   <img src="factorio-transparent.gif" alt="Factorio factory" />
 </p>
 
-Making things that mostly work. If you want to see professional details, check [thalesamaral.tech](https://thalesamaral.tech).
+Making things that mostly work. If you want to see professional details, check [portfolio](https://thalesamaral.tech) and [linkedin](https://linkedin.com/in/amaralthalesalves).
